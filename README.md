@@ -2,7 +2,7 @@
 
 **`Estudante de ADS`**
 
-Me chamo Douglas Vinícius, tenho 27 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninassau. Sou fascinado por tecnologia e tenho um desejo enorme de aprender tudo sobre e criar coisas novas pormeio dela.
+Me chamo Douglas Vinícius, tenho 27 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninassau. Sou fascinado por tecnologia e tenho um desejo enorme de aprender tudo sobre e criar coisas novas por meio dela.
 
 
 ### 🤖 Linguagens e Tecnologias
